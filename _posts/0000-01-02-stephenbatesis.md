@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+a fly without wings is a walk
 Use the left arrow to go back!
